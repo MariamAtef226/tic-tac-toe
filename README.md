@@ -1,7 +1,7 @@
 # tic-tac-toe Game :x::o:
 
 
-### Project Description :pen:
+### Project Description :page_facing_up:
 
 A simple tic-tac-toe web game, where player faces the computer. The computer makes random choices during the game (not AI based). 
 
