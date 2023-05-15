@@ -31,4 +31,4 @@ None
 
 <hr>
 
-#### Enjoy it :wink:
+#### Enjoy :wink:
